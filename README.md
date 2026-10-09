@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2388FF&height=200&section=header&text=Siddhant%20Khul&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2388FF&height=200&section=header&text=Siddhant%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+and+Learning+Every+Day;Python+%7C+Java+%7C+SQL;Aspiring+Full+Stack+Developer" alt="Typing SVG"/>
