@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Santosh Khul
+# 👋 Hi, I'm Siddhant Arawade
 
 ### 💻 Aspiring Full Stack Developer
 
