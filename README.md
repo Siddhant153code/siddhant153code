@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Siddhant Khul**, an aspiring Full Stack Developer passionate about technology, programming, and building useful applications.
+Hi! I'm **Siddhant Arawade**, an aspiring Full Stack Developer passionate about technology, programming, and building useful applications.
 
 - 🌱 I'm continuously improving my programming and development skills.
 - 💻 I enjoy solving problems and learning new technologies.
